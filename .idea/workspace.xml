@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="328c62ae-f9b3-4fff-832c-67f0229fcb74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/resources/db.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +107,7 @@
       <workItem from="1653231156798" duration="28000" />
       <workItem from="1653232817992" duration="5776000" />
       <workItem from="1653239811320" duration="2162000" />
+      <workItem from="1654016303638" duration="320000" />
     </task>
     <servers />
   </component>
